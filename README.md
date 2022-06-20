@@ -5,7 +5,6 @@ my name is Chris (she/her) and I'm from Cologne, Germany :de:. I worked about 10
 ### Things I'm interested in:
 * technology
 * design & :art: creative stuff
-* :sunflower: nature & :earth_americas: travelling
 * sports (boxing, fitness, snowboard)
 * :green_book: literature
 * :sushi: food 
