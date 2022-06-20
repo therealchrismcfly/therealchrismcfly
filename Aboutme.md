@@ -14,5 +14,6 @@ Hi, my name is Chris and I'm from Cologne, Germany. I worked about 10 years in O
 
 ## Links to socials
 [LinkedIn](https://www.linkedin.com/in/christiane-hertwig-581237a3/)
+
 [XING](https://www.xing.com/profile/Christiane_Hertwig/cv)
 
