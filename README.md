@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-Hi, my name is Chris (she/her) and I'm from Cologne, Germany :de:. I worked about 10 years in Online Marketing. Because I want to make a career change, I just started a **Web Development Bootcamp at neuefische**. I'm excited to learn great new stuff and to also share my knowledge.
+my name is Chris (she/her) and I'm from Cologne, Germany :de:. I worked about 10 years in Online Marketing. Because I want to make a career change, I just started a **Web Development Bootcamp at neuefische**. I'm excited to learn great new stuff and to also share my knowledge.
 
 ### Things I'm interested in:
 * technology
