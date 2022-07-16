@@ -6,8 +6,6 @@ my name is Chris (she/her) and I'm from Cologne, Germany :de:. I worked about 10
 * technology
 * design & :art: creative stuff
 * sports (boxing, fitness, snowboard)
-* :green_book: literature
-* :sushi: food 
 
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/christiane-hertwig-581237a3/)
