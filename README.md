@@ -6,5 +6,5 @@
 * 🌱 I'm also interested in design, hiking, camping and sports (fitness, running, snowboard)
 * 🥜 I love Peanutbutter, Corgis, The Nanny & Fleetwood Mac.
 
-### 📫 How to reach me:
+### How to reach me 📫 
 [LinkedIn](https://www.linkedin.com/in/christiane-hertwig-581237a3/)
