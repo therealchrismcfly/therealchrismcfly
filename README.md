@@ -3,7 +3,7 @@
 * 💻 I just did a Web Development Bootcamp and I'm exited to learn more great stuff. 
 * 🔥 Things I'm currentling learning more about: JavaScript & Testing
 * 🌈 I live in Cologne, Germany
-* 🌱 I'm also interested in design, hiking, camping and sports (fitness, running, snowboard)
+* 🌱 I'm also interested in design, hiking, books and sports (fitness, running, snowboard)
 * 🥜 I love Peanutbutter, Corgis, The Nanny & Fleetwood Mac.
 
 ### How to reach me 📫 
